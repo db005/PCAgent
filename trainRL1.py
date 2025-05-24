@@ -37,8 +37,8 @@ PPO_BATCH_SIZE = 1 # 由于环境交互通常是串行的，batch size 常设为
 # PPO_EPOCHS = 3 # PPO 内部更新轮数，可以根据需要调整
 
 # 3. 模型配置
-MODEL_NAME = "/home/chuangzhi/zzp/DRLInference/models/Qwen2.5-VL-3B-Instruct"  # 更新为本地模型路径
-VALUE_MODEL_NAME = "/home/chuangzhi/zzp/DRLInference/models/Qwen2.5-VL-3B-Instruct"  # 更新为本地模型路径
+MODEL_NAME = "./DRLInference/models/Qwen2.5-VL-3B-Instruct"  # 更新为本地模型路径
+VALUE_MODEL_NAME = "./DRLInference/models/Qwen2.5-VL-3B-Instruct"  # 更新为本地模型路径
 TORCH_DTYPE = torch.float16 # 使用半精度以节省显存
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"当前使用的设备: {DEVICE}")
