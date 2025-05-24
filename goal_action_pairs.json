@@ -1,0 +1,4002 @@
+[
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 330)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "scroll(0, 1056)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1560)"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "scroll(0, 1490)"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "scroll(0, 804)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "scroll(0, 684)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "scroll(0, 459)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "scroll(0, 202)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "scroll(0, 1269)"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "scroll(0, 1760)"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1843)"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "scroll(0, 346)"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "scroll(0, 1453)"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 341)"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "scroll(0, 777)"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 640)"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "scroll(0, 1019)"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 1099)"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 681)"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "scroll(0, 1193)"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "scroll(0, 1379)"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 747)"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "scroll(0, 1976)"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "scroll(0, 1485)"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "scroll(0, 1014)"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "scroll(0, 457)"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "scroll(0, 439)"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "scroll(0, 1767)"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "scroll(0, 589)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "scroll(0, 411)"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "scroll(0, 1344)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('image')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "scroll(0, 1901)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "scroll(0, 348)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 158)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "scroll(0, 1783)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "scroll(0, 384)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 1291)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "scroll(0, 657)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "scroll(0, 1459)"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "scroll(0, 576)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 156)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "scroll(0, 1469)"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "scroll(0, 106)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "scroll(0, 1051)"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "scroll(0, 890)"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "scroll(0, 1361)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "scroll(0, 1534)"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "click('image')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "scroll(0, 516)"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "scroll(0, 1614)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1673)"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "scroll(0, 485)"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "scroll(0, 1086)"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "scroll(0, 1259)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "scroll(0, 595)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1218)"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "scroll(0, 1962)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "scroll(0, 1548)"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "scroll(0, 140)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1660)"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "scroll(0, 1456)"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "scroll(0, 174)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "scroll(0, 1368)"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "scroll(0, 268)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "scroll(0, 293)"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1504)"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "scroll(0, 613)"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "scroll(0, 118)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "scroll(0, 915)"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 1626)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 914)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "scroll(0, 1471)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "scroll(0, 464)"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "scroll(0, 627)"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "scroll(0, 1098)"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "scroll(0, 1211)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "scroll(0, 1975)"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1269)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 312)"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "scroll(0, 1164)"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "scroll(0, 1695)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "scroll(0, 519)"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1869)"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1152)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "scroll(0, 1994)"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "scroll(0, 1892)"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "scroll(0, 1667)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "scroll(0, 867)"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "scroll(0, 1265)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "scroll(0, 414)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "scroll(0, 265)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1945)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 867)"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "scroll(0, 256)"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "scroll(0, 966)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "scroll(0, 1498)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "scroll(0, 492)"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "scroll(0, 1094)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "scroll(0, 1569)"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "scroll(0, 568)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 1545)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 1356)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1563)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 586)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "scroll(0, 1942)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('image')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 1455)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "scroll(0, 499)"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "scroll(0, 937)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1915)"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('image')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "scroll(0, 1024)"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "scroll(0, 389)"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "scroll(0, 722)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 1933)"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "scroll(0, 1515)"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "scroll(0, 1561)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "scroll(0, 1696)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "scroll(0, 979)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 1912)"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "scroll(0, 1431)"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "scroll(0, 637)"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "scroll(0, 990)"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "scroll(0, 152)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1799)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1545)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1809)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "scroll(0, 453)"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "scroll(0, 693)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "scroll(0, 853)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "scroll(0, 1083)"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "scroll(0, 1916)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "scroll(0, 1006)"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "scroll(0, 1958)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 1312)"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "scroll(0, 1452)"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1305)"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "scroll(0, 384)"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 684)"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "scroll(0, 1651)"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "scroll(0, 202)"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "scroll(0, 539)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1359)"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1728)"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "scroll(0, 1673)"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "scroll(0, 719)"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "scroll(0, 429)"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "scroll(0, 1806)"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "scroll(0, 1641)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "在网页上搜索'机器学习'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "scroll(0, 1568)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "scroll(0, 333)"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "scroll(0, 1830)"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "scroll(0, 1226)"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "scroll(0, 442)"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1292)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "scroll(0, 1139)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 939)"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "click('image')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 807)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "scroll(0, 1019)"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "scroll(0, 1365)"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "scroll(0, 1742)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击'image'链接",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "scroll(0, 582)"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "scroll(0, 584)"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('image')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('submit_button', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 114)"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "scroll(0, 1337)"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "fill('search_box', 'mypassword')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 1207)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "scroll(0, 433)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1356)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1224)"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.google.com'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "选择下拉菜单中的'中文'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('search_box')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('image')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "fill('submit_button', 'mypassword')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "scroll(0, 419)"
+    },
+    {
+        "text": "点击网页上的'home'按钮",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "click('image')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "select_option('search_box', '中文')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "点击网页上的'search'按钮",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在搜索框中输入'Python'",
+        "labels": "open_url('https://www.xiaohongshu.com')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "scroll(0, 566)"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击网页上的'login'按钮",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "在搜索框中输入'深度学习'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "select_option('image', '中文')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "选择下拉菜单中的'Spanish'",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在搜索框中输入'AI'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "点击'submit'链接",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "search('AI')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "search('深度学习')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "select_option('submit_button', '中文')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "在搜索框中输入'机器学习'",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "fill('login_button', 'myuser')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "点击'login'链接",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 1920)"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "fill('image', 'mypassword')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.xiaohongshu.com'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "click('login_button')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('search_box', 'English')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "select_option('login_button', 'English')"
+    },
+    {
+        "text": "在评论框中输入'很有用，谢谢！'",
+        "labels": "fill('search_box', 'myuser')"
+    },
+    {
+        "text": "在网页上搜索'深度学习'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "点击'home'链接",
+        "labels": "scroll(0, 917)"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "点击'search'链接",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "select_option('image', 'English')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "scroll(0, 860)"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "打开新标签页并访问'https://www.bilibili.com'",
+        "labels": "select_option('submit_button', 'English')"
+    },
+    {
+        "text": "在图片上点击以放大",
+        "labels": "search('机器学习')"
+    },
+    {
+        "text": "选择下拉菜单中的'English'",
+        "labels": "fill('login_button', 'mypassword')"
+    },
+    {
+        "text": "在评论框中输入'不太满意'",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "scroll(0, 559)"
+    },
+    {
+        "text": "在表单中输入用户名和密码并提交",
+        "labels": "search('Python')"
+    },
+    {
+        "text": "点击网页上的'submit'按钮",
+        "labels": "click('submit_button')"
+    },
+    {
+        "text": "在网页上搜索'Python教程'",
+        "labels": "open_url('https://www.bilibili.com')"
+    },
+    {
+        "text": "在网页上搜索'Web开发'",
+        "labels": "fill('image', 'myuser')"
+    },
+    {
+        "text": "在评论框中输入'内容不错，但有些地方需要改进'",
+        "labels": "select_option('login_button', '中文')"
+    },
+    {
+        "text": "点击网页上的'image'按钮",
+        "labels": "open_url('https://www.google.com')"
+    },
+    {
+        "text": "滑动页面到底部",
+        "labels": "search('机器学习')"
+    }
+]

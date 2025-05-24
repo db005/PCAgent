@@ -1,0 +1,4 @@
+echo "__pycache__/" > .gitignore
+echo "models/" >> .gitignore
+echo "outputs*/" >> .gitignore
+echo "lora_*/" >> .gitignore
